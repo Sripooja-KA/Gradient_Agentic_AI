@@ -1,0 +1,37 @@
+1. Reddit-Based Research
+
+Questions that require opinions, experiences, or discussions from Reddit:
+
+“What are some common challenges people face when learning Python?”
+“What do Reddit users recommend for staying productive while working from home?”
+“What are people's biggest complaints about online learning?”
+“What do travelers on Reddit say about visiting Bangalore?”
+“What are the most common problems developers face when working with AWS?”
+2. Structured Live Data — Open-Meteo
+
+Questions that require current or forecasted weather information:
+
+“What is the current temperature in Mumbai?”
+“Is it going to rain in Chennai today?”
+“What will the weather be like in Bangalore tomorrow?”
+“What is the current weather in Delhi?”
+“What is the temperature and precipitation forecast for Hyderabad?”
+3. Combined Sources — Reddit + Open-Meteo
+
+Questions where the agent needs both live weather data and Reddit opinions:
+
+“What is the current weather in Bangalore, and what do Reddit users say about visiting the city?”
+“What is the weather in Mumbai today, and do travelers on Reddit recommend visiting at this time?”
+“What is the current weather in Delhi, and what experiences have Reddit users shared about traveling there?”
+“How is the weather in Goa right now, and what do people on Reddit say about visiting Goa?”
+“What is the current weather in Singapore, and what do Reddit users recommend doing there?”
+4. Insufficient Grounding
+
+Questions where the available Reddit and Open-Meteo sources cannot provide sufficient evidence:
+
+“Who will win the next FIFA World Cup?”
+“What is the latest version of Java?”
+“Explain how quantum computing works.”
+“What is the population of Chennai?”
+“Who is the current CEO of Microsoft?”
+“What are the best programming languages for AI?”
